@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Videobruuge</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: black;
+      color: white;
+      text-align: center;
+    }
+    .hero {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    h1 {
+      font-size: 60px;
+      letter-spacing: 5px;
+    }
+    p {
+      font-size: 20px;
+      opacity: 0.7;
+    }
+  </style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>VIDEOBRUUGE</h1>
+  <p>Visual storytelling through film</p>
+</div>
+
+<section>
+  <h2>Selected Work</h2>
+  <p>(your videos will go here)</p>
+</section>
+
+<section>
+  <h2>Contact</h2>
+  <p>contact@videobruuge.com</p>
+</section>
+
+</body>
+</html>    
